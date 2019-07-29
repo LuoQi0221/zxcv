@@ -1,0 +1,199 @@
+.tb {
+	float: left;
+	height: 600px;
+	width: 100%;
+}
+.dhl1 {
+	float: left;
+	position: absolute;
+	left: -1px;
+	height: 120px;
+	width: 100%;
+	background:black;
+}
+.yb a{
+	color: #e5dfd9;
+	text-decoration: none;
+	padding-left: 10px;
+}
+.yb li{
+	display: inline;
+}
+.yb a:hover{
+	color: white;
+}
+.yb {
+	
+	float: right;
+	margin-top: 30px;
+	margin-right: 80px;
+}
+
+.zb a{
+	color: #e5dfd9;
+	text-decoration: none;
+	padding-left: 10px;
+}
+.zb li{
+	display: inline;
+}
+.zb a:hover{
+	color: white;
+}
+.zb {
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.zj{
+	margin-left: 730px;
+	margin-top: 40px;
+	font-size: 30px;
+	color: white;
+}
+
+
+
+.zhuti {
+	width: 100%;
+	background: #fafafa;
+}
+.tb {
+	margin: 0 auto;
+	width: 988px;
+	height: 155px;
+}
+.tb img {
+	margin-top: 40px;
+}
+.zt {
+	width: 987px;
+	height: 660px;
+	background: white;
+	margin: 0 auto;
+}
+.w1 {
+	width: 341px;
+	height: 601px;
+	margin: 0 auto;
+}
+.w2 {
+	float: left;
+	margin-left: 100px;
+	margin-top: 10px;
+	font-size: 24px;
+	color: #000000;
+}
+.w3 input{
+	height: 38px;
+	width: 337px;
+	text-indent: 2em;
+}
+.w4 {
+	float: left;
+	position: absolute;
+	top: 273px;
+	left: 605px;
+}
+.w5 input{
+	height: 38px;
+	width: 200px;
+	text-indent: 2em;
+}
+.w6 {
+	float: left;
+	position: absolute;
+	top: 322px;
+	left: 606px;
+}
+.w7 {
+	float: left;
+	position: absolute;
+	top: 316px;
+	left: 840px;
+}
+input {
+	margin-top: 8px;
+}
+.w8 {
+	float: left;
+	position: absolute;
+	top: 376px;
+	left: 606px;
+}
+.w9{	
+	border: solid 1px lightgray;
+	float: left;
+	position: absolute;
+	top: 367px;
+	left: 840px;
+	height: 38px;
+	width: 97px;
+	background: white;
+}
+.w9 a{
+	position: absolute;
+	left: 10px;
+	top: 7px;
+	color: black;
+	text-decoration: none;
+}
+.w10 input{
+	height: 38px;
+	width: 337px;
+	text-indent: 2em;
+}
+.w11 {
+	float: left;
+	position: absolute;
+	top: 428px;
+	left: 606px;
+}
+.w12 {
+	float: left;
+	position: absolute;
+	top: 430px;
+	left: 910px;
+}
+.w13 input{
+	height: 38px;
+	width: 337px;
+	text-indent: 2em;
+}
+.w14 {
+	float: left;
+	position: absolute;
+	top: 480px;
+	left: 606px;
+}
+.w15 {
+	float: left;
+	position: absolute;
+	top: 483px;
+	left: 910px;
+}
+.w16 input{
+	height: 38px;
+	width: 337px;
+}
+.bte{
+	text-align: center;
+}
+.w17 {
+	margin-top: 5px;
+	text-align: center;
+	
+	height: 38px;
+	width: 340px;
+}
+.w17 input{
+	
+	background: darkred;
+	left: 740px;
+	color: white;
+	
+}
+.w18 {
+	margin-left: 10px;
+	font-size: 12px;
+}

@@ -1,0 +1,261 @@
+.tb {
+	float: left;
+	height: 120px;
+	width: 100%;
+}
+.dhl1 {
+	float: left;
+	position: absolute;
+	height: 120px;
+	width: 100%;
+	background:#8b817b;
+	opacity:0.6;
+}
+.dhl1:hover{
+	float: left;
+	background: black;
+	opacity:0.9;
+}
+.zb a{
+	color: #e5dfd9;
+	text-decoration: none;
+	padding-left: 10px;
+}
+.zb li{
+	display: inline;
+}
+.zb a:hover{
+	color: white;
+}
+.zb {
+	float: left;
+	margin-top: 50px;
+	margin-left: 30px;
+}
+.zj{
+	margin-left: 730px;
+	margin-top: 40px;
+	font-size: 30px;
+	color: white;
+}
+.yb a{
+	color: #e5dfd9;
+	text-decoration: none;
+	padding-left: 10px;
+}
+.yb li{
+	display: inline;
+}
+.yb a:hover{
+	color: white;
+}
+.yb {
+	float: right;
+	margin-top: 50px;
+	margin-right: 30px;
+}
+.db {
+	float: left;
+	width: 100%;
+	height: 400px;
+	background: #1b1b1b;
+}
+.db4 {
+	margin: 0 auto;
+	height: 400px;
+	width: 980px;
+}
+.db3 li{
+	float: left;
+	padding-left: 150px;
+	padding-top: 50px;
+}
+.db3 a{
+	text-decoration: none;
+	color: lightslategray;
+}
+.db5 li{
+	padding-top: 20px;
+}
+.db6 {
+	float: left;
+	margin-top: 70px;
+	margin-left: -655px;
+}
+.db5 a{
+	text-decoration: none;
+	color: lightgray
+}
+.db5 a:hover{
+	color: white;
+}
+
+.db7 li{
+	padding-top: 20px;
+}
+.db8 {
+	float: left;
+	margin-top: 70px;
+	margin-left: -459px;
+}
+.db7 a{
+	text-decoration: none;
+	color: lightgray
+}
+.db7 a:hover{
+	color: white;
+}
+
+.db9 li{
+	padding-top: 20px;
+}
+.db10 {
+	float: left;
+	margin-top: 70px;
+	margin-left: -260px;
+}
+.db9 a{
+	text-decoration: none;
+	color: lightgray
+}
+.db9 a:hover{
+	color: white;
+}
+
+.db11 li{
+	padding-top: 20px;
+}
+.db12 {
+	float: left;
+	margin-top: 75px;
+	margin-left: -60px;
+}
+.db11 a{
+	text-decoration: none;
+	color: lightgray;
+	
+}
+.db11 a:hover{
+	color: white;
+}
+.bj{
+	float: left;
+	margin-top: -1px;
+}
+.db13 {
+	float: left;
+	margin-left: 118px;
+	margin-top: 20px;
+}
+.db14 li{
+	display: inline;
+	margin-left: 30px;
+}
+.db14 a{
+	text-decoration: none;
+	color: lightgray;
+}
+.dl2 {
+	float: left;
+	width: 100%;
+	height: 500px;
+	background: #e7e7e7;
+}
+.dl3 {
+	font-size: 24px;
+	float: left;
+	margin-left: 755px;
+	margin-top: 30px;
+}
+.dl4 {
+	float: left;
+	margin-top: 100px;
+	margin-left: -290px;
+}
+.dl5 {
+	float: left;
+	margin-top: 160px;
+	margin-left: -430px;
+}
+.dl5 input{
+	
+	width: 300px;
+	height: 40px;
+	border-radius: 5px 5px;
+}
+.dl5 a{
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+}
+.dl6 {
+	float: left;
+	margin-top: 240px;
+	margin-left: -430px;
+}
+.dl6 input{
+	
+	width: 300px;
+	height: 40px;
+	border-radius: 5px 5px;
+}
+.dl6 a{
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+}
+.dl7 {
+	float: left;
+	margin-top: 300px;
+	margin-left: -400px;
+	
+}
+.dl7 input{
+	float: left;
+	margin-left: 20px;
+}
+.dl7 a{
+	float: left;
+	text-decoration: none;
+	color: black;
+	font-size: 12px;
+	margin-left: 5px;
+	margin-top: -2px;
+}
+.dl8 {
+	float: left;
+	margin-top: 330px;
+	
+	width: 300px;
+	height: 40px;
+	border-radius: 5px 5px;
+	margin-left: -380px;
+}
+.dl8 input{
+	float: left;
+	background: black;
+	width: 300px;
+	height: 40px;
+	text-decoration: none;
+	color: white;
+}
+.dl9 a{
+	float: left;
+	margin-top: 400px;
+	margin-left: -115px;
+	text-decoration: none;
+	color: lightslategray;	
+}
+.dl10 a{
+	float: left;
+	margin-top: 400px;
+	margin-left: -380px;
+	text-decoration: none;
+	color: lightslategray;
+}
+.dl9 a:hover{
+	color: white;
+}
+.dl10 a:hover{
+	color: white;
+}
